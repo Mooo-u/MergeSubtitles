@@ -1,4 +1,4 @@
-# MergeSubtitles
+# MergeSubtitles(srt)
 Merge two subtitles into bilingual subtitle
 合并两个字幕文件，生成双语字幕
 
